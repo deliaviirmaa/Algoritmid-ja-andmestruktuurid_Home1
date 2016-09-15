@@ -5,6 +5,8 @@ public class Balls {
    
    public static void main (String[] param) {
       // for debugging
+
+      //dfghjkll
    }
    
    public static void reorder (Color[] balls) {
